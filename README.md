@@ -1,7 +1,9 @@
 # vue-image-lazyloading
  
 ## Directive
-Step1, creating a file, here I named it as lazyloaing-directive.js
+Step1, creating a file for your directive
+
+here I named it as Lazyloading.js
 ```js
 export default {
   // ref: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
